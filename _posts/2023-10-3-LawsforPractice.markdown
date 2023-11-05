@@ -1,3 +1,8 @@
+---
+layout: post
+title: Five Laws for Practice
+---
+
 # 5 Laws for Practice
 [[Flow-state]]
 
