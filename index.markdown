@@ -6,4 +6,3 @@ layout: home
 ---
 
 # Hello, Nelson!
-## Hello, Nelson
