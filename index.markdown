@@ -4,4 +4,4 @@
 
 layout: home
 ---
-# This Is My Page
+# This Page
